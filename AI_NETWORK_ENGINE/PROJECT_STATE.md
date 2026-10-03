@@ -1,48 +1,61 @@
 # PROJECT STATE
 
-Status: INITIALIZED
+Status: ZERO-START
+
+## Current reality
+The human explicitly confirmed that this project is starting from zero.
+No infrastructure should be assumed to exist.
 
 ## Environment
-PasarGuard version: UNKNOWN
-Node version: UNKNOWN
-Xray version: UNKNOWN
-OS/kernel: UNKNOWN
-Iran server: UNKNOWN
-Foreign server A: UNKNOWN
-Foreign server B: UNKNOWN
-Foreign server C: UNKNOWN
-Provider/location: UNKNOWN
-IPv4: UNKNOWN
-IPv6: UNKNOWN
-Domain: UNKNOWN
-DNS provider: UNKNOWN
-CDN: UNKNOWN
+PasarGuard version: UNKNOWN / NOT DEPLOYED
+Node version: UNKNOWN / NOT DEPLOYED
+Xray version: UNKNOWN / NOT DEPLOYED
+OS/kernel: NONE SELECTED FOR THIS PROJECT
+Iran server: NOT PURCHASED
+Foreign server A: NOT PURCHASED
+Foreign server B: NOT PURCHASED
+Foreign server C: NOT PURCHASED
+Provider/location: NOT SELECTED
+IPv4: NOT APPLICABLE YET
+IPv6: NOT APPLICABLE YET
+Domain: NOT SELECTED
+DNS provider: NOT SELECTED
+CDN: NOT SELECTED
 Iran ISP: UNKNOWN
 
 ## Architecture
-Topology: UNKNOWN
-Current tunnel: NONE CONFIRMED
-Transport: UNKNOWN
-Ports: UNKNOWN
-MTU: UNKNOWN
-MSS: UNKNOWN
+Topology: NOT SELECTED
+Current tunnel: NONE
+Transport: NOT SELECTED
+Ports: NOT SELECTED
+MTU: NOT MEASURED
+MSS: NOT MEASURED
 
 ## Traffic
-Primary use: UNKNOWN
-Users: UNKNOWN
-Bandwidth target: UNKNOWN
-TCP requirement: UNKNOWN
-UDP requirement: UNKNOWN
-Client platforms: UNKNOWN
+Primary use: NOT FINALIZED
+Users: NOT FINALIZED
+Bandwidth target: NOT FINALIZED
+TCP requirement: TO BE DETERMINED
+UDP requirement: TO BE DETERMINED
+Client platforms: TO BE DETERMINED
 
 ## Evidence
-Confirmed facts: Project initialized only.
+Confirmed facts:
+- Project starts from zero.
+- The user wants step-by-step learning and engineering, not a bulk questionnaire.
+- Existing tunnel projects are examples/references, not a predefined solution boundary.
+- A custom tunnel/protocol may be considered if justified by research and testing.
+- The human-facing interaction must remain chat-only.
+
 Measured values: NONE
 Known failures: NONE
 Current hypothesis: NONE
-Last successful test: NONE
-Last failed test: NONE
-Next required action: Environment intake + baseline connectivity measurements.
+
+## Current state machine
+STATE Z0 — ZERO INFRASTRUCTURE
+
+Next required action:
+Understand and lock the actual project objective, then derive the minimum requirements needed for the first procurement/research decision.
 
 ## Integrity rule
-Do not replace UNKNOWN values with guesses. Update this file only when evidence exists.
+Do not turn historical conversation details, examples, or planned architecture into current infrastructure facts.
